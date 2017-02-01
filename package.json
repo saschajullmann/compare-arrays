@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "compare-arrays",
+  "version": "1.0.0",
+  "description": "This function compares two arrays and returns an array with the indexes of the differing values.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^18.1.0"
+  },
+  "keywords": [
+    "array",
+    "compare",
+    "difference"
+  ],
+  "author": "Sascha Jullmann",
+  "license": "MIT"
+}
